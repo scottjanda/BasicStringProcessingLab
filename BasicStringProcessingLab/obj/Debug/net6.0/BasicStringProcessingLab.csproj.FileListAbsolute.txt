@@ -1,0 +1,15 @@
+C:\Users\scott\Desktop\GrandCircus\Repositories\BasicStringProcessingLabApp\BasicStringProcessingLab\bin\Debug\net6.0\BasicStringProcessingLab.exe
+C:\Users\scott\Desktop\GrandCircus\Repositories\BasicStringProcessingLabApp\BasicStringProcessingLab\bin\Debug\net6.0\BasicStringProcessingLab.deps.json
+C:\Users\scott\Desktop\GrandCircus\Repositories\BasicStringProcessingLabApp\BasicStringProcessingLab\bin\Debug\net6.0\BasicStringProcessingLab.runtimeconfig.json
+C:\Users\scott\Desktop\GrandCircus\Repositories\BasicStringProcessingLabApp\BasicStringProcessingLab\bin\Debug\net6.0\BasicStringProcessingLab.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\BasicStringProcessingLabApp\BasicStringProcessingLab\bin\Debug\net6.0\BasicStringProcessingLab.pdb
+C:\Users\scott\Desktop\GrandCircus\Repositories\BasicStringProcessingLabApp\BasicStringProcessingLab\obj\Debug\net6.0\BasicStringProcessingLab.csproj.AssemblyReference.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\BasicStringProcessingLabApp\BasicStringProcessingLab\obj\Debug\net6.0\BasicStringProcessingLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Desktop\GrandCircus\Repositories\BasicStringProcessingLabApp\BasicStringProcessingLab\obj\Debug\net6.0\BasicStringProcessingLab.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\BasicStringProcessingLabApp\BasicStringProcessingLab\obj\Debug\net6.0\BasicStringProcessingLab.AssemblyInfo.cs
+C:\Users\scott\Desktop\GrandCircus\Repositories\BasicStringProcessingLabApp\BasicStringProcessingLab\obj\Debug\net6.0\BasicStringProcessingLab.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\BasicStringProcessingLabApp\BasicStringProcessingLab\obj\Debug\net6.0\BasicStringProcessingLab.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\BasicStringProcessingLabApp\BasicStringProcessingLab\obj\Debug\net6.0\refint\BasicStringProcessingLab.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\BasicStringProcessingLabApp\BasicStringProcessingLab\obj\Debug\net6.0\BasicStringProcessingLab.pdb
+C:\Users\scott\Desktop\GrandCircus\Repositories\BasicStringProcessingLabApp\BasicStringProcessingLab\obj\Debug\net6.0\BasicStringProcessingLab.genruntimeconfig.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\BasicStringProcessingLabApp\BasicStringProcessingLab\obj\Debug\net6.0\ref\BasicStringProcessingLab.dll
