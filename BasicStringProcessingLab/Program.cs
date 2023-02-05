@@ -1,7 +1,5 @@
 ﻿
-
 //Prompt the user to enter a sentence.  Split the sentence into individual words and display each word on its own line.
-
 
 string userContinue = "";
 
@@ -20,37 +18,51 @@ do
     }
 
     Console.WriteLine();
-    Console.WriteLine("Do you want to continue (y/n)?");
+    Console.WriteLine("Would you like to continue (y/n)?");
     userContinue = Console.ReadLine();
     Console.WriteLine();
 
 
 } while (userContinue.ToLower() == "y");
+
+userContinue = "";
 
 
 
 //Repeatedly prompt the user to enter a string.  Store the string in a list and display the contents of the list with each element separated by a space.
 
-List<string> list2 = new();
-
 do
 {
+    List<string> list2 = new();
 
-    Console.WriteLine("Please enter a string:");
-    string userInput = Console.ReadLine();
+    do
+    {
+
+        Console.WriteLine("Please enter a string:");
+        string userInput = Console.ReadLine();
+        Console.WriteLine();
+
+        list2.Add(userInput);
+
+        Console.WriteLine("Do you want to add another string (y/n)?");
+        userContinue = Console.ReadLine();
+        Console.WriteLine();
+
+    } while (userContinue.ToLower() == "y");
+
+    Console.Write("You have entered: ");
+
+    foreach (var item in list2)
+    {
+        Console.Write(item + " ");
+    }
     Console.WriteLine();
 
-    list2.Add(userInput);
-
-
-    Console.WriteLine("Do you want to add another string (y/n)?");
+    Console.WriteLine();
+    Console.WriteLine("Would you like to continue (y/n)?");
     userContinue = Console.ReadLine();
     Console.WriteLine();
 
 } while (userContinue.ToLower() == "y");
 
-foreach (var item in list2)
-{
-    Console.Write(item + " ");
-}
-Console.WriteLine();
+Console.WriteLine("Goodbye!");
